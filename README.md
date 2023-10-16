@@ -12,8 +12,8 @@ Puntualmente:
 Esto nos dejará las bases de lo que necesitamos para poder crear aplicaciones con un diseño un poco más complejo en **React
 Native**
 
+![Screenshot_1697482944](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/4f9fc784-cb85-46b4-943c-d58f35416333)
+![Screenshot_1697482947](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/37f41bbe-44d1-46f8-8530-35c14182a614)
+![Screenshot_1697482955](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/b45dc45e-0017-4efb-9a2a-6dee724dbc30)
+![Screenshot_1697482958](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/c357205e-0b6f-4643-90ab-1d1dfff4a0c4)
 
-## Android
-![Screenshot_1697138392](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/373da92a-fa88-4bbc-b5f3-7044b2da5ddb)
-![Screenshot_1697138400](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/3a847b23-e466-4d19-8138-dcd5439bf5a8)
-![Screenshot_1697138404](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/f1d1651c-9d63-4080-a529-a0e28be8a036)
